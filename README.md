@@ -1,13 +1,16 @@
-# Java DSA Practice 🚀
+# 🚀 Java DSA Practice
 
-This repository contains basic **Java programs for Data Structures & Algorithms (DSA)** practice.
+This repository contains **Java programs for Data Structures & Algorithms (DSA)** practice.  
+Programs are organized **day-wise** to track daily learning and progress.
 
-## ✅ Programs Implemented
+---
+
+## 📅 Day 1 – Number Basics
 
 ### 1️⃣ Prime Number
 - Checks whether a given number is **prime or not**
-- Optimized logic using **square root approach**
-- Time Complexity: **O(√n)**
+- Optimized using **square root approach**
+- **Time Complexity:** `O(√n)`
 
 **File:** `PrimeNumber.java`
 
@@ -16,14 +19,30 @@ This repository contains basic **Java programs for Data Structures & Algorithms 
 ### 2️⃣ Factorial
 - Calculates the **factorial of a given number**
 - Implemented using **iterative approach**
-- Time Complexity: **O(n)**
+- **Time Complexity:** `O(n)`
 
 **File:** `Factorial.java`
 
 ---
 
+## 📅 Day 2 – String Basics
+
+### 1️⃣ Reverse String
+- Reverses a given string
+
+**File:** `ReverseString.java`
+
+---
+
+### 2️⃣ Vowel Count
+- Counts the number of vowels (`a, e, i, o, u`) in a string
+
+**File:** `VowelCount.java`
+
+---
+
 ## ▶️ How to Run the Programs
 
-Compile:
+### Compile
 ```bash
-javac PrimeNumber.java Factorial.java
+javac FileName.java
