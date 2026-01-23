@@ -40,6 +40,17 @@ Programs are organized **day-wise** to track daily learning and progress.
 **File:** `VowelCount.java`
 
 ---
+## 📅 Day 3 – Number Conversion
+
+### 1️⃣ Binary to Decimal
+- Converts a **binary number (user input)** into **decimal**
+- Implemented using a **while loop**
+- Avoids `Math.pow()` for better performance
+- **Time Complexity:** `O(n)`
+
+**File:** `BinaryToDecimal.java`
+
+
 
 ## ▶️ How to Run the Programs
 
