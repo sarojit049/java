@@ -50,6 +50,17 @@ Programs are organized **day-wise** to track daily learning and progress.
 
 **File:** `BinaryToDecimal.java`
 
+## 📅 Day 4 – Arrays
+
+### 1️⃣ Find Maximum Element in Array
+- Finds the **largest element** in an array
+- Introduces **arrays**, **traversal**, and **comparison**
+- **Time Complexity:** `O(n)`
+- **Space Complexity:** `O(1)`
+
+**File:** `MaxInArray.java`
+
+
 
 
 ## ▶️ How to Run the Programs
